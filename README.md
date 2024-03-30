@@ -6,4 +6,3 @@
 <object data="" type="application/pdf" width="100%"> 
 </object>
 
-[embed]https://github.com/mihirp161/HarmonyW2/blob/main/Harmonyw2%20UI.pdf[/embed]
